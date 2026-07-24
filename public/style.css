@@ -1,0 +1,95 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.hone{
+    text-align: left;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(213, 103, 103);
+    border-bottom:10px ;
+    border-bottom:black;
+    box-shadow: inset;
+}
+
+.htwo{
+    text-align: left;
+    padding: 4mm;
+    background-color: rgba(155, 97, 97, 0.533);
+}
+
+.htext{
+    color: rgb(214, 223, 233);
+    padding-right: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-shadow: 20px;
+    text-shadow: black;
+}
+
+.body{
+    background-color: rgb(247, 246, 246);
+}
+
+.hthree{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font:bolder;
+    margin: 20px;
+}
+
+.text{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.btag{
+    height: 110mm;
+    width: auto;
+}
+.lable{
+    font-size: 20px;
+}
+.ttext{
+    padding-top: 25px;
+    margin: 20px;
+    text-align: center;
+}
+
+.input1{
+    height: 25px;
+    width: 200px;
+    margin-left: 33px;
+}
+
+.input2{
+    height: 25px;
+    width: 200px;
+    margin-left: 15px;
+}
+
+.input3{
+    height: 25px;
+    width: 200px;
+    margin-left: 5px;
+}
+
+.input4{
+    height: 25px;
+    width: 200px;
+    margin-left: 10px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 30mm;
+    width: auto;
+    text: left;
+}
+.ftext{
+    padding: 30px;
+}
